@@ -28,6 +28,7 @@
     "@types/react-dom": "^18.0.8",
     "autoprefixer": "^10.4.13",
     "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-hooks": "^4.6.0",
     "gatsby-plugin-postcss": "^6.2.0",
