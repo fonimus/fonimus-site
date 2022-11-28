@@ -4,7 +4,7 @@ import type { HeadFC, PageProps } from "gatsby";
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <main className="m-12">
-      <h1>Hey, I'm fonimus</h1>
+      <h1>Hey, I&apos;m fonimus</h1>
       <br />
       <a href="https://github.com/fonimus/" target="_blank" rel="noreferrer">
         Github
