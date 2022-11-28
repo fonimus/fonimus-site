@@ -1,9 +1,10 @@
 {
-  "name": "fonimus",
+  "name": "fonimus-site",
   "version": "1.0.0",
   "private": true,
-  "description": "fonimus",
+  "description": "fonimus.fr website",
   "author": "fonimus",
+  "repository": "https://github.com/fonimus/fonimus-site",
   "keywords": [
     "gatsby"
   ],
