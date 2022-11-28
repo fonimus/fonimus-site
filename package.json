@@ -4,7 +4,10 @@
   "private": true,
   "description": "fonimus.fr website",
   "author": "fonimus",
-  "repository": "https://github.com/fonimus/fonimus-site",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fonimus/fonimus-site"
+  },
   "keywords": [
     "gatsby"
   ],
