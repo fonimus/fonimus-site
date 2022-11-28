@@ -6,7 +6,7 @@ const IndexPage: React.FC<PageProps> = () => {
     <main className="m-12">
       <h1>Hey, I'm fonimus</h1>
       <br />
-      <a href="https://github.com/fonimus/" target="_blank">
+      <a href="https://github.com/fonimus/" target="_blank" rel="noreferrer">
         Github
       </a>
     </main>
