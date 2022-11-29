@@ -6,7 +6,7 @@ const NotFoundPage: React.FC<PageProps> = () => {
     <main className="m-12">
       <h1>Page not found</h1>
       <p>
-        Sorry 😔, we couldn’t find what you were looking for.
+        Sorry, we couldn’t find what you were looking for.
         <br />
         <br />
         <Link to="/">Go home</Link>.
