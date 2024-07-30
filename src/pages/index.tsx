@@ -17,9 +17,15 @@ const IndexPage: React.FC<PageProps> = () => {
             </h1>
             <p className="mt-10 text-xl">Mon nom est François Onimus, je suis
                 développeur fullstack.</p>
-            <p className="mt-10 text-xl">Le nom de mon entreprise est <code
-                className="underline">devonimus</code>.</p>
-            <p className="mt-10 text-xl">Ci dessous les liens vers mes différents
+            <p className="mt-10 text-xl">Le nom de mon entreprise est <a
+                className="text-lg"
+                href="https://data.inpi.fr/entreprises/891226276"
+                target="_blank" rel="noreferrer">
+                <code className="underline">DevOnimus</code>
+            </a>.
+            </p>
+            <p className="mt-10 text-xl">Ci dessous les liens vers mes
+                différents
                 profils:</p>
             <ul className="mt-4 indent-8">
                 <li>
